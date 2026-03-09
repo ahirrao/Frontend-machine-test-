@@ -2,7 +2,7 @@
 1. CRUD Application (Very Common)
 💻 Task:
 
-Build a small app with:
+Build a small app with
 
 Add item
 
