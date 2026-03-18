@@ -1,7 +1,6 @@
 # Frontend-machine-test-
 1. CRUD Application (Very Common)
-💻 Task:
-
+💻 Task
 Build a small app with
 
 Add item
