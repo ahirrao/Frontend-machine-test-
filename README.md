@@ -1,4 +1,4 @@
-# Frontend-machine-test-
+# Frontend-machine-test
 1. CRUD Application (Very Common)
 💻 Task
 Build a small app with
