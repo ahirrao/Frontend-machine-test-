@@ -189,7 +189,7 @@ Dynamic routing
 You already use react-router-dom, so this is expected.
 
 🔥 8. Debounce / Throttle (Mid-Level Companies)
-💻 Task:
+💻 Task
 
 Search input with debounce (300ms)
 
